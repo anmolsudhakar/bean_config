@@ -20,6 +20,6 @@ By the end of the assignment you should be able to understand
   -  There exists many-many relationship between Student and Course model classes
   -  Use appropriate annotations for creating spring beans as per given instructions in the comments               
   -  In App.java create an ApplicationContext object and retrieve the student,professor ans course bean objects
-  -  Run the test cases present in AppTest.java
+
 
 
